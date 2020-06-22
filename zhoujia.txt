@@ -3,3 +3,4 @@
 xya
 you
 add function 
+del function
